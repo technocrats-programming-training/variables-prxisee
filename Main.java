@@ -24,7 +24,7 @@ public class Main {
         // Print out whether age is even
       
 System.out.println(" True or False, my age is odd?! Answer: ");
-  boolean years = 15%2 == 1;
+  boolean years = age%2 == 1;
       System.out.println(years);
       
         // Print out whether firstName equals lastName
